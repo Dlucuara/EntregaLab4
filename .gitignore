@@ -1,0 +1,11 @@
+# Dataset local: imágenes y máscaras descargadas
+/datos/
+
+# Archivos comprimidos del dataset
+*.zip
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
